@@ -22,23 +22,22 @@ I received the B.S. degree from the Nanjing University of Posts and Telecommunic
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div></div></div>
-<div class='paper-box-text' markdown="1">
 
-[IntTower: The Next Generation of Two-Tower Model for Pre-Ranking System]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/abs/2210.09890))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [IntTower: The Next Generation of Two-Tower Model for Pre-Ranking System](https://arxiv.org/abs/2210.09890)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Xiangyang Li, Bo Chen, HuiFeng Guo, Jingjie Li, Chenxu Zhu, Xiang Long, Sujian Li, Yichao Wang, Wei Guo, Longxia Mao, Jinxing Liu, Zhenhua Dong, Ruiming Tang, **CIKM 2022**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Low Resource Style Transfer via Domain Adaptive Meta Learning](https://arxiv.org/abs/2205.12475)
+
+Xiangyang Li, Xiang Long, Yu Xia, Sujian Li, **NAACL 2022(ORAL)**
+- [Knowledge Enhanced Transformers System for Claim Stance Classification](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_50)
+Xiangyang Li, Zheng Li, Sujian Li, Zhimin Li, Shimin Yang, **NLPCC 2021(ORAL)** 
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
