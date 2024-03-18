@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree from the Nanjing University of Posts and Telecommunications, in 2019, and the M.S. degree from Peking University, in 2022. I am currently a researcher with the AI Research Institute, HuaWei Noah Ark Lab, China. My main research interests include Machine Learning, Deep Learning and Recommender Systems. Also, I do some research about Nature Language Processing, such as text classification, and text generation. Now,I focus on using LLM to solve recommendation problems. I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=_LBW3KEAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=_LBW3KEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received the B.S. degree from the Nanjing University of Posts and Telecommunications, in 2019, and the M.S. degree from Peking University, in 2022. I am currently a researcher with the AI Research Institute, HuaWei Noah Ark Lab, China. My main research interests include Machine Learning, Deep Learning and Recommender Systems. Also, I do some research about Nature Language Processing, such as text classification, and text generation. Now,I focus on using LLM to solve recommendation problems.
 
 
 # 🔥 News
