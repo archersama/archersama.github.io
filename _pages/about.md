@@ -54,4 +54,6 @@ Xiangyang Li, Zheng Li, Sujian Li, Zhimin Li, Shimin Yang, **NLPCC 2021(ORAL)**
 # 💻 Internships
 - *2022.01 - 2022.04*, HuaWei , Beijing.
 - *2021.06 - 2020.09*, MeiTuan , Beijing.
+I was responsible for the construction and training of the coarse rank model of MeiTuan food channel, during the internship process, 20 features were screened out, and the xgboost model was used to construct the coarse rank model based on CVR.Finally, we got auc score of 0.89  on the line, and opm + 1.7% on the channel, the model  had been fully applied, and effectively alleviated the stress of the system.
 - *2021.01 - 2020.04*, JingDong , Beijing.
+ During the internship process, I used the CEM optimization algorithm to regulate the distribution of flow in Jindong main search according to the feedback on the line, ensuring the promotion of merchants' flow while simultaneously and guaranteeing a smooth growth of overall gmv.
