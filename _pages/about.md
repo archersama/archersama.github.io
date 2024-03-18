@@ -26,10 +26,10 @@ I received the B.S. degree from the Nanjing University of Posts and Telecommunic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2022</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[IntTower: The Next Generation of Two-Tower Model for Pre-Ranking System]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://arxiv.org/abs/2210.09890))
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
