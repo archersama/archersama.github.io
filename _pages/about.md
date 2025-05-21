@@ -21,12 +21,20 @@ I received the B.S. degree from the Nanjing University of Posts and Telecommunic
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Four of our papers have been accepted by ACL.
+
+- *2025.04*: &nbsp;🎉🎉 one of our papers have been accepted by WWW.
+
+- *2025.01*: &nbsp;🎉🎉 one of our papers have been accepted by Coling.
+ 
+- *2024.11*: &nbsp;🎉🎉 one of our papers have been accepted by EMNLP. 
 
 
-# 📝 Publications 
+# 📝Highlighted Publications 
 
-
+- [CoIR: A Comprehensive Benchmark for Code Information Retrieval Models](https://arxiv.org/abs/2407.02883)
+- 
+Xiangyang Li, Kuicai Dong, Yi Quan Lee, Wei Xia, Hao Zhang, Xinyi Dai, Yasheng Wang, Ruiming Tang, **ACL 2025**
 
 - [IntTower: The Next Generation of Two-Tower Model for Pre-Ranking System](https://arxiv.org/abs/2210.09890)
 
@@ -35,8 +43,8 @@ Xiangyang Li, Bo Chen, HuiFeng Guo, Jingjie Li, Chenxu Zhu, Xiang Long, Sujian L
 - [Low Resource Style Transfer via Domain Adaptive Meta Learning](https://arxiv.org/abs/2205.12475)
 
 Xiangyang Li, Xiang Long, Yu Xia, Sujian Li, **NAACL 2022(ORAL)**
-- [Knowledge Enhanced Transformers System for Claim Stance Classification](https://link.springer.com/chapter/10.1007/978-3-030-88483-3_50)
-Xiangyang Li, Zheng Li, Sujian Li, Zhimin Li, Shimin Yang, **NLPCC 2021(ORAL)** 
+
+
 
 
 # 🎖 Honors and Awards
