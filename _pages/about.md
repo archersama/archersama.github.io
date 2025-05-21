@@ -21,13 +21,13 @@ I received the B.S. degree from the Nanjing University of Posts and Telecommunic
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Four of our papers have been accepted by ACL.
+- *2025.05*: &nbsp;🎉🎉 Four of our papers have been accepted by ACL 2025.
 
-- *2025.04*: &nbsp;🎉🎉 one of our papers have been accepted by WWW.
+- *2025.04*: &nbsp;🎉🎉 one of our papers have been accepted by WWW 2025 .
 
-- *2025.01*: &nbsp;🎉🎉 one of our papers have been accepted by Coling.
+- *2025.01*: &nbsp;🎉🎉 one of our papers have been accepted by Coling 2025.
  
-- *2024.11*: &nbsp;🎉🎉 one of our papers have been accepted by EMNLP. 
+- *2024.11*: &nbsp;🎉🎉 one of our papers have been accepted by EMNLP 2024. 
 
 
 # 📝 Highlighted Publications 
