@@ -62,9 +62,18 @@ My main research interests include LLM for Rec, LLM for Code, RAG and Recommende
 
 
 # 🎖 Honors and Awards 
-- **2019-2022** Outstanding Student Award
-- **2015-2019** National Inspirational Scholarship
+- **2019-2022** DLP-KDD workshop best paper award
+- **2015-2019** National Inspirational Scholarship,Outstanding Student Award
 - **2015-2019** First-Class Scholarship
+
+# 🏆 Competitions & Projects
+
+- 3rd Place in AAAI 2021 COVID-19 Fake News Detection Challenge  
+  https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English
+
+- Lead contributor to "Dive into Deep Learning" TensorFlow implementation (3.8k stars)  
+  https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
+
 
 # 📖 Education
 - *2019.09 - 2022.06*, Peking University
