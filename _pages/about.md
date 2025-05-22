@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the B.S. degree from the Nanjing University of Posts and Telecommunications, in 2019, and the M.S. degree from Peking University, in 2022. I am currently a researcher with the AI Research Institute, HuaWei Noah Ark Lab, China. My main research interests include Machine Learning, Deep Learning and Recommender Systems. Also, I do some research about Nature Language Processing, such as text classification, and text generation. Now,I focus on using LLM to solve recommendation problems.
+Hi, I am an LLM Algorithm Engineer at Huawei Noah's Ark Lab. I joined Huawei Noah's Ark Recommendation and Search Laboratory in 2022 after receiving my M.S. degree from Peking University. I primarily work on enhancing large language models' code competition capabilities and RAG (Retrieval-Augmented Generation) functionalities. Additionally, I have contributed to LLM4Rec (Large Language Models for Recommendation) projects.
+
+My main research interests include LLM for Rec, LLM for Code, RAG and Recommender Systems.  Currently, I'm focused on leveraging Large Language Models to solve code problems and RAG.
 
 
 # 🔥 News
@@ -75,11 +77,11 @@ I received the B.S. degree from the Nanjing University of Posts and Telecommunic
 
 # 💻 Work Experience
 - *2022.01 - Present*, **HuaWei Noah's Ark Lab**, Beijing.
-  Working in the Recommendation and Search Laboratory, I have been involved in coarse ranking and search projects. Later, I participated in the development of the Pangu Large Language Model, primarily responsible for LLM code competition capabilities and RAG (Retrieval-Augmented Generation) capabilities.
+  Working in the Recommendation and Search Laboratory, I have been involved in coarse ranking and search projects. Later, I participated in the development of the Pangu Large Language Model, primarily responsible for **LLM code competition capabilities** and **RAG** (Retrieval-Augmented Generation) capabilities.
 
 ## 🎓 Internships
-- *2021.06 - 2021.09*, MeiTuan (Internship), Beijing.
+- *2021.06 - 2021.09*, **MeiTuan** (Internship), Beijing.
   I was responsible for the construction and training of the coarse rank model of MeiTuan food channel. During the internship process, I screened out 20 features and used the XGBoost model to construct the coarse rank model based on CVR. Finally, we achieved an AUC score of 0.89 in production, and OPM +1.7% on the channel. The model was fully applied and effectively alleviated system stress.
 
-- *2021.01 - 2021.04*, JingDong (Internship), Beijing.
+- *2021.01 - 2021.04*, **JingDong** (Internship), Beijing.
   During the internship, I used the CEM optimization algorithm to regulate the distribution of traffic in JingDong main search according to online feedback, ensuring the promotion of merchants' traffic while simultaneously guaranteeing smooth growth of overall GMV.
