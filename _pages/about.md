@@ -17,20 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an LLM Algorithm Engineer at Huawei Noah's Ark Lab. I joined Huawei Noah's Ark Recommendation and Search Laboratory in 2022 after receiving my M.S. degree from Peking University. I primarily work on enhancing large language models' code competition capabilities and RAG (Retrieval-Augmented Generation) functionalities. Additionally, I have contributed to LLM4Rec (Large Language Models for Recommendation) projects.
+# About Me
 
-My main research interests include LLM for Rec, LLM for Code, RAG and Recommender Systems.  Currently, I'm focused on leveraging Large Language Models to solve code problems and RAG.
+I am an LLM Algorithm Engineer at Huawei Noah's Ark Lab, where I joined the Recommendation and Search Laboratory in 2022 after completing my M.S. degree at Peking University. My primary focus is on enhancing large language models' capabilities in code competitions and Retrieval-Augmented Generation (RAG). I have also made significant contributions to LLM4Rec (Large Language Models for Recommendation) projects.
 
+My research interests span LLM for Recommendation, LLM for Code, RAG, and Recommender Systems. Currently, I'm dedicated to leveraging the power of Large Language Models to solve complex coding challenges and advance RAG technologies.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Four of our papers have been accepted by ACL 2025.
-
-- *2025.04*: &nbsp;🎉🎉 one of our papers have been accepted by WWW 2025 .
-
-- *2025.01*: &nbsp;🎉🎉 one of our papers have been accepted by Coling 2025.
- 
-- *2024.11*: &nbsp;🎉🎉 one of our papers have been accepted by EMNLP 2024. 
-
+- *2025.05*: &nbsp;🎉🎉 Four papers accepted by ACL 2025.
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by WWW 2025.
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by Coling 2025.
+- *2024.11*: &nbsp;🎉🎉 One paper accepted by EMNLP 2024.
 
 # 📝 Highlighted Publications 
 
@@ -48,7 +45,7 @@ My main research interests include LLM for Rec, LLM for Code, RAG and Recommende
 
 - **[A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3698878)**  
   Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, Ruiming Tang  
-  *TOIS *
+  *TOIS*
 
 - **[IntTower: The Next Generation of Two-Tower Model for Pre-Ranking System](https://arxiv.org/abs/2210.09890)**  
   Xiangyang Li, Bo Chen, HuiFeng Guo, Jingjie Li, Chenxu Zhu, Xiang Long, Sujian Li, Yichao Wang, Wei Guo, Longxia Mao, Jinxing Liu, Zhenhua Dong, Ruiming Tang  
@@ -58,39 +55,48 @@ My main research interests include LLM for Rec, LLM for Code, RAG and Recommende
   Xiangyang Li, Xiang Long, Yu Xia, Sujian Li  
   *NAACL 2022 (ORAL)*
 
-
-
-
 # 🎖 Honors and Awards 
-- **2019-2022** DLP-KDD workshop best paper award
-- **2015-2019** National Inspirational Scholarship,Outstanding Student Award
+- **2019-2022** DLP-KDD Workshop Best Paper Award
+- **2015-2019** National Inspirational Scholarship, Outstanding Student Award
 - **2015-2019** First-Class Scholarship
 
 # 🏆 Competitions & Projects
 
-- 3rd Place in AAAI 2021 COVID-19 Fake News Detection Challenge  
-  https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English
+- **3rd Place** in AAAI 2021 COVID-19 Fake News Detection Challenge  
+  [View Solution](https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English)
 
-- Lead contributor to "Dive into Deep Learning" TensorFlow implementation (3.8k stars)  
-  https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
-
+- **Lead Contributor** to "Dive into Deep Learning" TensorFlow implementation (3.8k stars)  
+  [View Project](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 
 # 📖 Education
-- *2019.09 - 2022.06*, Peking University
-- *2015.09 - 2019.06*, Nanjing University of Posts and Telecommunications
-  - Exchange student at Nanjing University (Fall 2017, one semester)
-
+- **M.S.**, Peking University (2019.09 - 2022.06)
+- **B.S.**, Nanjing University of Posts and Telecommunications (2015.09 - 2019.06)
+  - Exchange Student at Nanjing University (Fall 2017)
 
 # 💬 Invited Talks
-- **2023** Invited to Tsinghua University to present research on CTRL
+- **2023** Presented research on CTRL at Tsinghua University
 
-# 💻 Work Experience
-- *2022.01 - Present*, **HuaWei Noah's Ark Lab**, Beijing.
-  Working in the Recommendation and Search Laboratory, I have been involved in coarse ranking and search projects. Later, I participated in the development of the Pangu Large Language Model, primarily responsible for **LLM code competition capabilities** and **RAG** (Retrieval-Augmented Generation) capabilities.
+# 💻 Professional Experience
 
-## 🎓 Internships
-- *2021.06 - 2021.09*, **MeiTuan** (Internship), Beijing.
-  I was responsible for the construction and training of the coarse rank model of MeiTuan food channel. During the internship process, I screened out 20 features and used the XGBoost model to construct the coarse rank model based on CVR. Finally, we achieved an AUC score of 0.89 in production, and OPM +1.7% on the channel. The model was fully applied and effectively alleviated system stress.
+## Huawei Noah's Ark Lab (2022.01 - Present)
+**LLM Algorithm Engineer**
+- Leading development of LLM code competition capabilities
+- Advancing RAG (Retrieval-Augmented Generation) technologies
+- Contributing to the Pangu Large Language Model
+- Previously worked on recommendation and search systems
 
-- *2021.01 - 2021.04*, **JingDong** (Internship), Beijing.
-  During the internship, I used the CEM optimization algorithm to regulate the distribution of traffic in JingDong main search according to online feedback, ensuring the promotion of merchants' traffic while simultaneously guaranteeing smooth growth of overall GMV.
+## Internships
+
+### MeiTuan (2021.06 - 2021.09)
+**Algorithm Intern**
+- Developed and trained a coarse ranking model for MeiTuan's food delivery channel
+- Identified 20 key features and implemented an XGBoost model based on CVR
+- Achieved 0.89 AUC in production and 1.7% OPM improvement
+- Successfully deployed model to alleviate system stress
+
+### JingDong (2021.01 - 2021.04)
+**Algorithm Intern**
+- Applied CEM optimization algorithm to regulate traffic distribution in JingDong's main search
+- Balanced merchant traffic promotion while ensuring GMV growth
+- Optimized online feedback mechanisms for search results
+
