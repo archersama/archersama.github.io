@@ -73,9 +73,13 @@ I received the B.S. degree from the Nanjing University of Posts and Telecommunic
 # 💬 Invited Talks
 - **2023** Invited to Tsinghua University to present research on CTRL
 
-# 💻 Internships
-- *2022.01 - 2022.04*, HuaWei , Beijing.
-- *2021.06 - 2020.09*, MeiTuan , Beijing.
-I was responsible for the construction and training of the coarse rank model of MeiTuan food channel, during the internship process, 20 features were screened out, and the xgboost model was used to construct the coarse rank model based on CVR.Finally, we got auc score of 0.89  on the line, and opm + 1.7% on the channel, the model  had been fully applied, and effectively alleviated the stress of the system.
-- *2021.01 - 2020.04*, JingDong , Beijing.
- During the internship process, I used the CEM optimization algorithm to regulate the distribution of flow in Jindong main search according to the feedback on the line, ensuring the promotion of merchants' flow while simultaneously and guaranteeing a smooth growth of overall gmv.
+# 💻 Work Experience
+- *2022.01 - Present*, **HuaWei Noah's Ark Lab**, Beijing.
+  Working in the Recommendation and Search Laboratory, I have been involved in coarse ranking and search projects. Later, I participated in the development of the Pangu Large Language Model, primarily responsible for LLM code competition capabilities and RAG (Retrieval-Augmented Generation) capabilities.
+
+## 🎓 Internships
+- *2021.06 - 2021.09*, MeiTuan (Internship), Beijing.
+  I was responsible for the construction and training of the coarse rank model of MeiTuan food channel. During the internship process, I screened out 20 features and used the XGBoost model to construct the coarse rank model based on CVR. Finally, we achieved an AUC score of 0.89 in production, and OPM +1.7% on the channel. The model was fully applied and effectively alleviated system stress.
+
+- *2021.01 - 2021.04*, JingDong (Internship), Beijing.
+  During the internship, I used the CEM optimization algorithm to regulate the distribution of traffic in JingDong main search according to online feedback, ensuring the promotion of merchants' traffic while simultaneously guaranteeing smooth growth of overall GMV.
