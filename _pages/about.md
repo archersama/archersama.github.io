@@ -19,11 +19,13 @@ redirect_from:
 
 # About Me
 
-I am an LLM Algorithm Engineer at Huawei Noah's Ark Lab, where I joined the Recommendation and Search Laboratory in 2022 after completing my M.S. degree at Peking University. My primary focus is on enhancing large language models' capabilities in code competitions and Retrieval-Augmented Generation (RAG). I have also made significant contributions to LLM4Rec (Large Language Models for Recommendation) projects.
+I am an LLM Algorithm Engineer at Z.AI. Fisrst, I joined the Huawei Noah Ark Lab Recommendation and Search Laboratory in 2022 after completing my M.S. degree at Peking University. In 2025,I join Z.A I for Code LLM. My primary focus is on enhancing large language models' capabilities in code competitions and Retrieval-Augmented Generation (RAG). I have also made significant contributions to LLM4Rec (Large Language Models for Recommendation) projects.  Now I focus on how to using LLM to solve real world code problem.
 
-My research interests span LLM for Recommendation, LLM for Code, RAG, and Recommender Systems. Currently, I'm dedicated to leveraging the power of Large Language Models to solve complex coding challenges and advance RAG technologies.
+My research interests span LLM for Recommendation, LLM for Code, RAG, and Recommender Systems. Currently, I'm dedicated to leveraging the power of Large Language Models to solve complex coding competition and real world code problem.
 
 # 🔥 News
+- *2025.08*：&nbsp;🎉🎉 One paper accepted by EMNLP 2025.
+- *2025.09*：&nbsp;🎉🎉 Two papers accepted by NeurIPS 2025.
 - *2025.05*: &nbsp;🎉🎉 Four papers accepted by ACL 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by WWW 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by Coling 2025.
@@ -31,6 +33,10 @@ My research interests span LLM for Recommendation, LLM for Code, RAG, and Recomm
 
 # 📝 Highlighted Publications 
 
+- **[Humanity's Last Code Exam: Can Advanced LLMs Conquer Human's Hardest Code Competition?](https://arxiv.org/abs/2506.12713)**  
+  Xiangyang Li, Xiaopeng Li, Kuicai Dong, Quanhu Zhang, Rongju Ruan, Xinyi Dai, Xiaoshuang Liu, Shengchun Xu, Yasheng Wang, Ruiming Tang  
+  *EMNLP 2025*
+  
 - **[CoIR: A Comprehensive Benchmark for Code Information Retrieval Models](https://arxiv.org/abs/2407.02883)**  
   Xiangyang Li, Kuicai Dong, Yi Quan Lee, Wei Xia, Hao Zhang, Xinyi Dai, Yasheng Wang, Ruiming Tang  
   *ACL 2025*
@@ -38,10 +44,6 @@ My research interests span LLM for Recommendation, LLM for Code, RAG, and Recomm
 - **[CTRL: Connect Collaborative and Language Model for CTR Prediction](https://dl.acm.org/doi/abs/10.1145/3713080)**  
   Xiangyang Li, Bo Chen, Lu Hou, Ruiming Tang  
   *TORS*
-
-- **[LLMTreeRec: Unleashing the Power of Large Language Models for Cold-Start Recommendations](https://arxiv.org/abs/2404.00702)**  
-  Wenlin Zhang, Chuhan Wu, Xiangyang Li, Yuhao Wang, Kuicai Dong, Yichao Wang, Xinyi Dai, Xiangyu Zhao, Huifeng Guo, Ruiming Tang  
-  *Coling 2025 (ORAL)*
 
 - **[A Unified Framework for Multi-Domain CTR Prediction via Large Language Models](https://dl.acm.org/doi/abs/10.1145/3698878)**  
   Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, Ruiming Tang  
@@ -51,9 +53,6 @@ My research interests span LLM for Recommendation, LLM for Code, RAG, and Recomm
   Xiangyang Li, Bo Chen, HuiFeng Guo, Jingjie Li, Chenxu Zhu, Xiang Long, Sujian Li, Yichao Wang, Wei Guo, Longxia Mao, Jinxing Liu, Zhenhua Dong, Ruiming Tang  
   *CIKM 2022 (ORAL)*
 
-- **[Low Resource Style Transfer via Domain Adaptive Meta Learning](https://arxiv.org/abs/2205.12475)**  
-  Xiangyang Li, Xiang Long, Yu Xia, Sujian Li  
-  *NAACL 2022 (ORAL)*
 
 # 🎖 Honors and Awards 
 - **2019-2022** DLP-KDD Workshop Best Paper Award
@@ -78,7 +77,7 @@ My research interests span LLM for Recommendation, LLM for Code, RAG, and Recomm
 
 # 💻 Professional Experience
 
-## Huawei Noah's Ark Lab (2022.01 - Present)
+## Huawei Noah's Ark Lab (2022.08 - 2025.10)
 **LLM Algorithm Engineer**
 - Leading development of LLM code competition capabilities
 - Advancing RAG (Retrieval-Augmented Generation) technologies
